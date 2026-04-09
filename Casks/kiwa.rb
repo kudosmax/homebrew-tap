@@ -1,6 +1,6 @@
 cask "kiwa" do
   version "1.0.3"
-  sha256 "3041ac1adf15fdd13bc96552492d825b2ae88a716a9932857ee730c92992fbbf"
+  sha256 "7046186ac984675f29671467f06d27b1b5911c5c39d769b9c1f7688495976967"
 
   url "https://github.com/kudosmax/Kiwa/releases/download/v#{version}/Kiwa-v#{version}.zip"
   name "Kiwa"
